@@ -1,0 +1,14 @@
+C:\Users\beywh\source\repos\Say\Say\bin\Debug\net9.0\Say.exe
+C:\Users\beywh\source\repos\Say\Say\bin\Debug\net9.0\Say.deps.json
+C:\Users\beywh\source\repos\Say\Say\bin\Debug\net9.0\Say.runtimeconfig.json
+C:\Users\beywh\source\repos\Say\Say\bin\Debug\net9.0\Say.dll
+C:\Users\beywh\source\repos\Say\Say\bin\Debug\net9.0\Say.pdb
+C:\Users\beywh\source\repos\Say\Say\obj\Debug\net9.0\Say.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beywh\source\repos\Say\Say\obj\Debug\net9.0\Say.AssemblyInfoInputs.cache
+C:\Users\beywh\source\repos\Say\Say\obj\Debug\net9.0\Say.AssemblyInfo.cs
+C:\Users\beywh\source\repos\Say\Say\obj\Debug\net9.0\Say.csproj.CoreCompileInputs.cache
+C:\Users\beywh\source\repos\Say\Say\obj\Debug\net9.0\Say.dll
+C:\Users\beywh\source\repos\Say\Say\obj\Debug\net9.0\refint\Say.dll
+C:\Users\beywh\source\repos\Say\Say\obj\Debug\net9.0\Say.pdb
+C:\Users\beywh\source\repos\Say\Say\obj\Debug\net9.0\Say.genruntimeconfig.cache
+C:\Users\beywh\source\repos\Say\Say\obj\Debug\net9.0\ref\Say.dll
